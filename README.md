@@ -1,4 +1,4 @@
-# CindyJS web site
+# CindyJS web site 
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
@@ -8,7 +8,7 @@ feel free to
 or formulate a pull request.
 Note that most pages will come with an edit link in the bottom right corner.
 
-## Testing/developing the website on your local machine
+## Testing/developing the website on your local machine With us
 
 In order to download the website clone the repository with
 `git clone git@github.com:CindyJS/website.git`
